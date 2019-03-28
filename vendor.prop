@@ -163,3 +163,6 @@ ro.surface_flinger.vsync_sf_event_phase_offset_ns=6000000
 
 # Google Assistant
 ro.opa.eligible_device=true
+
+# OEM Unlock reporting
+ro.oem_unlock_supported=1
